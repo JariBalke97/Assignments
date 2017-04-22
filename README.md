@@ -6,3 +6,5 @@
 
 [Assignment week 5](https://github.com/JariBalke97/Assignments/blob/master/Assignment_week_5.ipynb)
 
+[Assignment week 6](https://github.com/JariBalke97/Assignments/blob/master/Assignment_week_6.ipynb)
+
