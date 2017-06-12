@@ -9,3 +9,5 @@
 [Assignment week 6](https://github.com/JariBalke97/Assignments/blob/master/Assignment_week_6.ipynb)
 
 [Assignment week 8](https://github.com/JariBalke97/Assignments/blob/master/Assignment_week_8.ipynb)
+
+[Final assignment Phyton](https://github.com/JariBalke97/Assignments/blob/master/Final_Assignment_Python.ipynb)
